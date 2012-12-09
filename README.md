@@ -8,7 +8,7 @@ Released under the [MIT License](http://opensource.org/licenses/mit-license.php)
 
 ## Screenshots
 
-![Screenshot](https://github.com/yhnavein/orchard-bootstrap-admin-theme/blob/master/Theme.png)
+![Screenshot](https://raw.github.com/yhnavein/orchard-bootstrap-admin-theme/master/Theme.png)
 
 ## Content
 
