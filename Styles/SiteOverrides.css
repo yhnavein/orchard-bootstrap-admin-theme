@@ -25,6 +25,7 @@
 	color: #000;
 	border-color: #1E5D7D;
 }
+ul { margin: 0; }
 #header, #branding { height: auto; }
 #header h1 { line-height: 1; font-size: 20px; margin: 0;  }
 #menu .menu-admin { margin: 0; }

@@ -22,6 +22,11 @@ This theme contains following libraries, packages:
 ## Installation
 
 1. Just clone repository to your **Themes** directory in your Orchard installation
+
+	```
+	git clone https://github.com/yhnavein/orchard-bootstrap-admin-theme.git BootstrapOrchardTheme
+	```
+
 2. Login to your admin panel in your Orchard installation
 3. Go to Themes and click Enable below the **Bootstrap Admin Theme**
 
@@ -40,3 +45,9 @@ Orchard framework also wasn't written in best way (in UX and design categories),
 **[Orchard Bootstrap Admin](http://orchard.codeplex.com/SourceControl/network/forks/Floubadour/OrchardBootstrapAdmin)** - fork of Orchard *v. 1.6*
 
 Maybe it will be integrated in main Orchard one day...
+
+## Credits
+
+**[PureDev](http://blog.puredev.eu)**
+
+**[Enovatio](http://enovatio.com)**
