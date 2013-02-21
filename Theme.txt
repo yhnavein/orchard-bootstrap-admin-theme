@@ -1,4 +1,4 @@
-Name: BootstrapAdminTheme
+Name: Bootstrap Admin Theme
 Author: Piotr Dąbrowski, Enovatio
 Website: http://puredev.eu
 Description: Admin theme with Bootstrap and other useful customizations. Allows you to create complex forms using Twitter Boostrap, KnockoutJS, DataTables with bundled DataTables Twitter bootstrap theme and Twitter Bootrstrap DatePicker.
