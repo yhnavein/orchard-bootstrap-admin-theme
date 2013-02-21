@@ -4,6 +4,8 @@ Orchard Bootstrap Admin Theme
 Extended admin theme for [Orchard framework](http://www.orchardproject.net/) which fully integrates the admin panel with [Twitter Bootstrap](http://twitter.github.com/bootstrap/index.html), [jquery DataTables](http://datatables.net/), [jquery validationEngine](https://github.com/posabsolute/jQuery-Validation-Engine), etc.
 Great for custom development in Orchard framework in admin panel.
 
+I've created also a module presenting sample of what you can achieve with this theme. You can obtain it here: [Bootstrap Orchard Admin Sample](https://github.com/yhnavein/orchard-bootstrap-admin-sample) and from the Orchard Gallery in the nearest future.
+
 Released under the [MIT License](http://opensource.org/licenses/mit-license.php)
 
 ## Screenshots
@@ -14,7 +16,7 @@ Released under the [MIT License](http://opensource.org/licenses/mit-license.php)
 
 This theme contains following libraries, packages:
 
-* **[Twitter Bootstrap](http://twitter.github.com/bootstrap/index.html)** v. 2.2.2 *(both styles, scripts and sprites)*
+* **[Twitter Bootstrap](http://twitter.github.com/bootstrap/index.html)** v. 2.3 *(both styles, scripts and sprites)*
 * **[jquery DataTables](http://datatables.net/)** v. 1.9.4 *with package to integrate Bootstrap styles into dataTables*
 * **[Date.js](http://www.datejs.com/)** v. 1.0 Alpha-1
 * **[jquery validationEngine](https://github.com/posabsolute/jQuery-Validation-Engine)** v. 2.6.1
