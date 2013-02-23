@@ -36,8 +36,7 @@ This theme contains following libraries, packages:
 
 ## Gallery
 
-As soon as Orchard Gallery starts working as expected e.g. will allow to upload a contribution, I will upload package with this theme.
-For now you can clone repository or download content of this repo as a ZIP file.
+There were some serious problems with Orchard Gallery (well, they still exists, as no-one really cares about them), but I managed to upload this theme to Gallery and you can download and install this theme simply from Orchard. **Bootstrap Admin Theme** - is the name of theme in Gallery.
 
 ## Further development
 
