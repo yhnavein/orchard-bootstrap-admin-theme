@@ -6,11 +6,13 @@
     @* Style.Include("bootstrap-datepicker.css"); *@
     Style.Include("validationEngine.jquery.css");
     Style.Include("jquery.dataTables.css");
+    Style.Include("font-awesome.min.css");
+    Style.Include("font-awesome-ie7.min.css").UseCondition("IE");
     Style.Include("SiteOverrides.css");
-    
+
     Script.Include("bootstrap.min.js");
     Script.Include("date.js");
-    Script.Include("knockout-2.1.0.min.js");
+    Script.Include("knockout-2.3.0.min.js");
     Script.Include("i18n/jquery.validationEngine-pl.js");
     Script.Include("jquery.validationEngine.js");
     Script.Include("knockout.mapping-latest.js");
@@ -18,7 +20,7 @@
     Script.Include("i18n/bootstrap-datepicker.pl.js"); *@
     Script.Include("jquery.dataTables.min.js");
     Script.Include("datatables-bootstrap.js");
-    
+
 }
 @using(Script.Foot())
 {
@@ -31,6 +33,6 @@
 <div id="branding">
 	<a href='@Url.Action("Index", new { Area = "", Controller = "Home" })' title='@T("Your Site")' class='logo-link'>
 		<h1>@T("Your Site")</h1>
-    <small>@T("Admin Panel")</small>  
+    <small>@T("Admin Panel")</small>
 	</a>
 </div>
