@@ -20,6 +20,16 @@
 	border-bottom-right-radius: 6px;
 	border-right: 3px solid #08C;
 }
+a.button {
+  line-height: 20px;
+}
+#local-navigation {
+  margin: 8px 0 -10px 0;
+}
+.bulk-actions select, .bulk-actions input {
+  margin-bottom: 0;
+  width: auto;
+}
 #branding .logo-link:hover {
 	background: #ddd;
 	color: #000;
@@ -32,17 +42,17 @@ ul { margin: 0; }
 #menu .menu-admin h3 { line-height: 1; }
 #installedBar { height: auto; }
 a.btn-primary, a.btn-primary:link { color: #fff; }
-.product-list .table tbody tr.active td { 
+.product-list .table tbody tr.active td {
   background: #C9FFC7;
 }
-.product-list .table tbody tr.not-active  td { 
+.product-list .table tbody tr.not-active  td {
   background: #F38484;
 }
 .form-horizontal .controls {
   margin-top: 0;
 }
 .control-group .controls .custom-label { padding: 5px 0; margin-right: 8px; text-align: right; }
-.html-content ul { 
+.html-content ul {
   list-style-type: disc;
 }
 

@@ -16,10 +16,12 @@ Released under the [MIT License](http://opensource.org/licenses/mit-license.php)
 
 This theme contains following libraries, packages:
 
-* **[Twitter Bootstrap](http://twitter.github.com/bootstrap/index.html)** v. 2.3 *(both styles, scripts and sprites)*
+* **[Twitter Bootstrap](http://twitter.github.com/bootstrap/index.html)** v. 2.3.2 *(both styles, scripts and sprites)*
 * **[jquery DataTables](http://datatables.net/)** v. 1.9.4 *with package to integrate Bootstrap styles into dataTables*
 * **[Date.js](http://www.datejs.com/)** v. 1.0 Alpha-1
 * **[jquery validationEngine](https://github.com/posabsolute/jQuery-Validation-Engine)** v. 2.6.1
+* **[Font Awesome](http://fortawesome.github.io/Font-Awesome/)** v. 3.2.1
+* **[KnockoutJS](knockoutjs.com)** v. 2.3.0
 
 ## Installation
 
