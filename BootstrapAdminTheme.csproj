@@ -81,8 +81,7 @@
     <Reference Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Content\Images\glyphicons-halflings-white.png" />
-    <Content Include="Content\Images\glyphicons-halflings.png" />
+    <Content Include="Content\font\fontawesome-webfont.svg" />
     <Content Include="Content\Images\sort_asc.png" />
     <Content Include="Content\Images\sort_asc_disabled.png" />
     <Content Include="Content\Images\sort_both.png" />
@@ -157,10 +156,12 @@
     <Content Include="Scripts\i18n\jquery.validationEngine-zh_TW.js" />
     <Content Include="Scripts\jquery.dataTables.min.js" />
     <Content Include="Scripts\jquery.validationEngine.js" />
-    <Content Include="Scripts\knockout-2.1.0.min.js" />
+    <Content Include="Scripts\knockout-2.3.0.min.js" />
     <Content Include="Scripts\knockout.mapping-latest.js" />
     <Content Include="Styles\bootstrap-datepicker.css" />
     <Content Include="Styles\bootstrap.min.css" />
+    <Content Include="Styles\font-awesome-ie7.min.css" />
+    <Content Include="Styles\font-awesome.min.css" />
     <Content Include="Styles\jquery.dataTables.css" />
     <Content Include="Styles\SiteOverrides.css" />
     <Content Include="README.md" />
@@ -207,6 +208,10 @@
     <Content Include="Views\Header.cshtml" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Content\font\fontawesome-webfont.eot" />
+    <None Include="Content\font\fontawesome-webfont.ttf" />
+    <None Include="Content\font\fontawesome-webfont.woff" />
+    <None Include="Content\font\FontAwesome.otf" />
     <None Include="Views\Menu.cshtml" />
   </ItemGroup>
   <PropertyGroup>
