@@ -26,7 +26,7 @@ a.button {
 #local-navigation {
   margin: 8px 0 -10px 0;
 }
-.bulk-actions select, .bulk-actions input {
+.bulk-actions select, .bulk-actions input, .search-actions input, .search-actions select {
   margin-bottom: 0;
   width: auto;
 }
